@@ -2,9 +2,9 @@
 
 <samp>
    
-My name is **Maxime**. I'm a **Software Engineer** currently living and working in Lausanne, **Switzerland** 🍫. 
+My name is **Maxime**. I'm a **Software Engineer** currently living and working in Lausanne, **Switzerland** 🍫
 
-I love **Space Engineering** 🚀, **Robotics Engineering** 🤖, & last but not least **Backend Engineering** ⚙️.
+I love **Space Engineering** 🚀, **Robotics Engineering** 🤖, & last but not least **Backend Engineering** ⚙️
 </samp>
 
 ## Work Experience
