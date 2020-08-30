@@ -1,7 +1,7 @@
 ### Hello 👋
 
-### My name is Maxime :technologist:
-<samp>I'm a **Software Engineer** currently living in Lausanne, Switzerland 🍫<samp>
+### 
+<samp>My name is **Maxime** :technologist:, I'm a **Software Engineer** currently living in Lausanne, Switzerland 🍫<samp>
 
 #### Work Experience
 
