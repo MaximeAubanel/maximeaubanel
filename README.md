@@ -1,9 +1,9 @@
-## Hello 👋
+# Hello 👋
 
 ### 
 <samp>My name is **Maxime** :technologist:, I'm a **Software Engineer** currently living in Lausanne, Switzerland 🍫<samp>
 
-### Work Experience
+## Work Experience
 
 #### <samp>2020 - Present - :switzerland: - **Robotics** *Software Engineer* - [@rigi.tech](https://rigi.tech/)<samp>
   
@@ -49,6 +49,6 @@ ___
 
 <sub><samp>Working hand to hand with the international creative team, my job was to create **POC** web app in **ReactJS** for our clients (mainly **Audi**) based from the **.PSD** files I was given.</samp></sub>
 
-### Projects
+## Projects
 
 *Coming soon...*
