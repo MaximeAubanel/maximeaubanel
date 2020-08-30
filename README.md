@@ -3,7 +3,7 @@
 ### 
 <samp>My name is **Maxime** :technologist:, I'm a **Software Engineer** currently living in Lausanne, Switzerland 🍫<samp>
 
-#### Work Experience
+### Work Experience
 
 > <samp>**2020** - **Present** - :switzerland: - **Robotics Software Engineer** - [@rigi.tech](https://rigi.tech/)<samp>
   
