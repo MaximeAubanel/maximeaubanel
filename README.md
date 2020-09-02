@@ -1,6 +1,8 @@
 # Hello
 
-My name is **Maxime**. I'm a **Software Engineer**.
+My name is **Maxime**. I'm a **Software Engineer :zap:**
+
+I'm interested to work in **Space Engineering** :rocket:, **Robotics Engineering** :robot:, & **Backend Engineering** ⚙️
 
 ## Work Experience
 #### <samp>2020 - Present - :switzerland: - **Robotics** *Software Engineer* - [@rigi.tech](https://rigi.tech/)<samp>
