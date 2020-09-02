@@ -59,7 +59,3 @@ ___
 <!---
 <sup><samp>Working hand to hand with the international creative team, my job was to create **POC** web app in **ReactJS** for our clients (mainly **Audi**) based from the **.PSD** files I was given.</samp></sup>
 --->
-
-## Projects
-
-*Coming soon...*
