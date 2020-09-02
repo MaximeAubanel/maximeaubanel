@@ -2,7 +2,7 @@
 
 My name is **Maxime**. I'm a **Software Engineer**.
 
-### Work Experience
+## Work Experience
 #### <samp>2020 - Present - :switzerland: - **Robotics** *Software Engineer* - [@rigi.tech](https://rigi.tech/)<samp>
   
 <p align="left">
