@@ -38,7 +38,7 @@ ___
 #### <samp>2016 - 4 Months - :cn: - **Frontend** *Software Engineer Intern* - [@fredfarid.com](https://fredfarid.com/)<samp>
 
 <p align="left">
-        <img src="https://img.shields.io/badge/-ReactJs-61DBFB" />
+        <img src="https://img.shields.io/badge/-ReactJs-cyan" />
         <img src="https://img.shields.io/badge/-Docker-0db7ed" />
         <img src="https://img.shields.io/badge/-Javascript-yellow" />
 </p>
