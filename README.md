@@ -32,7 +32,6 @@ ___
         <img src="https://img.shields.io/badge/-Go-blue" />
         <img src="https://img.shields.io/badge/-Docker-0db7ed" />
         <img src="https://img.shields.io/badge/-Hyperledger Fabric-orange" />
-        <img src="https://img.shields.io/badge/-C-black" />
 </p>
 
 ___
