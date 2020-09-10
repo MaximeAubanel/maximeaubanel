@@ -41,5 +41,5 @@ ___
 <p align="left">
         <img src="https://img.shields.io/badge/-ReactJs-61DBFB" />
         <img src="https://img.shields.io/badge/-Docker-0db7ed" />
-        <img src="https://img.shields.io/badge/-C-black" />
+        <img src="https://img.shields.io/badge/-Typescript-blue" />
 </p>
