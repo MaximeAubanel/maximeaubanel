@@ -1,6 +1,6 @@
 # Hello
 
-My name is **Maxime**. I'm a **Software Engineer :zap:**
+My name is **Maxime**. I'm a **Software Engineer.**
 
 I'm interested to work in **Space Engineering** :rocket:, **Robotics Engineering** :robot:, **Backend Engineering** ⚙️ & **UI development** :zap:
 
