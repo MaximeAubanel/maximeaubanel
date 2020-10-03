@@ -5,7 +5,7 @@ My name is **Maxime**. I'm a **Software Engineer.**
 I'm interested to work in **Space Engineering** :rocket:, **Robotics Engineering** :robot:, **Backend Engineering** ⚙️ & **UI development** :zap:
 
 ## Work Experience
-#### <samp>2020 - Present - :switzerland: - **Robotics** *Software Engineer* - [@rigi.tech](https://rigi.tech/)<samp>
+#### <samp>2020 - 7 Months - :switzerland: - **Robotics** *Software Engineer* - [@rigi.tech](https://rigi.tech/)<samp>
   
 <p align="left">
         <img src="https://img.shields.io/badge/-C++-ff69b4" />
